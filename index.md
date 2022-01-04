@@ -1,7 +1,7 @@
 @def title = "Franklin Example"
 @def tags = ["syntax", "code"]
 
-# How to use Franklin
+# How to use Franklin あああああ
 
 \tableofcontents <!-- you can use \toc as well -->
 
@@ -44,9 +44,9 @@ You can also quote stuff
 
 or have tables:
 
-| English         | Mandarin   |
-| --------------- | ---------- |
-| winnie the pooh | 维尼熊      |
+| English         | Mandarin |
+|-----------------|----------|
+| winnie the pooh | 维尼熊   |
 
 Note that you may have to do a bit of CSS-styling to get these elements to look the way you want them (the same holds for the whole page in fact).
 
@@ -140,7 +140,7 @@ This may be useful for local custom layouts like having a photo next to a text i
     <p>
     Evolution is cool.
     </p>
-    <div style="clear: both"></div>      
+    <div style="clear: both"></div>
   </div>
 </div>
 ~~~
